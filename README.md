@@ -20,11 +20,13 @@ Focused on **Backend Development & DevOps Engineering**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FernandoGuevara23&show_icons=true&theme=dracula&hide_border=false" width="48%" alt="stats card" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FernandoGuevara23&layout=compact&theme=dracula&hide_border=false" width="48%" alt="top languages" />
-</p
+### GitHub Overview
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/FernandoGuevara23?label=Followers&style=for-the-badge&color=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/FernandoGuevara23?label=Stars&style=for-the-badge&color=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/directory-file-count/FernandoGuevara23/Inventario_TI?label=Inventario_TI%20Files&style=for-the-badge&color=0d1117&logo=github" />
+</p>
 
 ###  Connect with me
 
