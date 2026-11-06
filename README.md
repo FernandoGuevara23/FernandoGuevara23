@@ -20,14 +20,12 @@ Focused on **Backend Development & DevOps Engineering**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
 ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FernandoGuevara23&show_icons=true&theme=dracula&title_color=fff&icon_color=7928ca&text_color=999&bg_color=0d1117&hide_border=false" width="48%" alt="stats card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGuevara23&layout=compact&theme=dracula&title_color=fff&text_color=999&bg_color=0d1117&hide_border=false" width="48%" alt="top languages" />
 </p>
----
 
 ###  Connect with me
 
