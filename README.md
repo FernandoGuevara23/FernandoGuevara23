@@ -20,14 +20,6 @@ Focused on **Backend Development & DevOps Engineering**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### GitHub Overview
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/FernandoGuevara23?label=Followers&style=for-the-badge&color=0d1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/FernandoGuevara23?label=Stars&style=for-the-badge&color=0d1117&logo=github" />
-  <img src="https://img.shields.io/github/directory-file-count/FernandoGuevara23/Inventario_TI?label=Inventario_TI%20Files&style=for-the-badge&color=0d1117&logo=github" />
-</p>
-
 ###  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandoalejandroguevararodriguez)
